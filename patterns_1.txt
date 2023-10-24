@@ -1,0 +1,50 @@
+{'Sushi Bars': 798}:0
+{'Japanese': 848}:0
+{'American (New)': 1593}:0
+{'Beauty & Spas': 6583}:0
+{'Nightlife': 5088}:0
+{'American (Traditional)': 2416}:0
+{'Bakeries': 1115}:0
+{'Fitness & Instruction': 1442}:0
+{'Dentists': 1195}:0
+{'Pubs': 874}:0
+{'Health & Medical': 5121}:0
+{'Bars': 4328}:0
+{'Hair Salons': 2091}:0
+{'Fashion': 3078}:0
+{'Professional Services': 1025}:0
+{'Financial Services': 875}:0
+{'Sports Bars': 818}:0
+{'Cafes': 1002}:0
+{'Nail Salons': 1667}:0
+{'Food': 9250}:0
+{"Women's Clothing": 1138}:0
+{'Restaurants': 25071}:0
+{'General Dentistry': 823}:0
+{'Grocery': 1424}:0
+{'Fast Food': 2851}:0
+{'Chinese': 1629}:0
+{'Real Estate': 1424}:0
+{'Coffee & Tea': 2199}:0
+{'Italian': 1848}:0
+{'Auto Repair': 1716}:0
+{'Hotels & Travel': 2495}:0
+{'Automotive': 4208}:0
+{'Hotels': 1431}:0
+{'Burgers': 1774}:0
+{'Doctors': 1694}:0
+{'Ice Cream & Frozen Yogurt': 1018}:0
+{'Sandwiches': 2364}:0
+{'Specialty Food': 1150}:0
+{'Home & Garden': 1586}:0
+{'Arts & Entertainment': 2271}:0
+{'Active Life': 3103}:0
+{'Event Planning & Services': 2975}:0
+{'Pizza': 2657}:0
+{'Home Services': 4785}:0
+{'Pets': 1497}:0
+{'Breakfast & Brunch': 1369}:0
+{'Shopping': 11233}:0
+{'Local Services': 3468}:0
+{'Mexican': 2515}:0
+{'Pet Services': 870}:0

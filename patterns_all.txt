@@ -1,0 +1,3 @@
+('Sports Bars', 'Nightlife', 'Restaurants', 'Bars'):0
+('Sports Bars', 'Pubs', 'Nightlife', 'Bars'):0
+('Pubs', 'Nightlife', 'Restaurants', 'Bars'):0
